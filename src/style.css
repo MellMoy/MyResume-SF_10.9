@@ -1,15 +1,10 @@
-
 body {
-    font-family: "Bona Nova SC", serif;
-    margin: 0;
-    padding: 0;
-}
-
-header {
     background-color: #7f2121;
+    font-family: "Bona Nova SC", serif;
     padding: 20px;
     text-align: center;
 }
+
 
 header img {
     width: 200px;
